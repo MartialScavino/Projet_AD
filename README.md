@@ -1,6 +1,9 @@
 # Projet_AD
 
-## Python dependencies
+Ce projet a été réalisé par Martial SCAVINO et Mathis DUPUY.  
+
+
+## Packages python
 
 * scikit-learn
 * seaborn `pip install seaborn`
